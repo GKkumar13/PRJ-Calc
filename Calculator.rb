@@ -17,9 +17,6 @@ case chChoice
   
   when "Sub"
       inResult = inOperand1 - inOperand2
-  
-  when "Mul"
-      inResult = inOperand1 * inOperand2
       
   else
       inResult = 0
