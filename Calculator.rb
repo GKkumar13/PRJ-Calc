@@ -14,6 +14,9 @@ case chChoice
 
   when "Add"
       inResult = inOperand1 + inOperand2
+  
+  when "Sub"
+      inResult = inOperand1 - inOperand2
       
   else
       inResult = 0
